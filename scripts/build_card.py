@@ -222,3 +222,4 @@ if __name__ == "__main__":
     with open(OUT_SVG, "w") as f:
         f.write(svg)
     print(f"Wrote {os.path.abspath(OUT_SVG)}")
+
