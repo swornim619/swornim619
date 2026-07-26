@@ -22,7 +22,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/profile-card.svg" width="900" alt="Swornim Poudel — Cyber Security Analyst (VAPT)"/>
+  <img src="./assets/profile-card.png" width="900" alt="Swornim Poudel — Cyber Security Analyst (VAPT)"/>
 </p>
 
 <h1 align="center">Swornim Poudel</h1>
