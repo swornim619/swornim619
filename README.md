@@ -58,10 +58,6 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
 - Built a working PoC and authored a complete OSS-Fuzz target (`BloomFilterReadFromFuzzer`); fix (PR #8449) merged by a Google engineer, referencing the submitted fuzz target.
 - Accepted into Google's OSS VRP program on a **Flagship (OT0-tier)** project.
 
-**OpenSSF Allstar — Security Policy Bypass** · [GHSA-r4gf-cmfp-wq5c](https://github.com/advisories/GHSA-r4gf-cmfp-wq5c)
-- Found a sort-comparator logic flaw (CWE-670) in Allstar's GitHub Actions policy engine that violated Go's `sort.Interface` contract, silently bypassing high-priority deny rules.
-- Verified the maintainer's fix against the full test suite (33 tests, including new regression cases).
-
 **Elgg — Avatar Upload Denial of Service** · [CVE-2026-65650](https://nvd.nist.gov/vuln/detail/CVE-2026-65650)
 - Reported a DoS (CWE-770) where Elgg failed to validate image dimensions on avatar uploads, enabling resource-exhaustion attacks.
 - Published via MITRE CNA-LR; indexed in NVD and [GHSA-7983-35fr-8qwm](https://github.com/advisories/GHSA-7983-35fr-8qwm) — CVSS 3.1: 4.3 (Medium).
