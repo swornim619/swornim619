@@ -124,7 +124,7 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
 
 ### 📫 Contact
 
-- **Email:** [swornimpoudel711@gmail.com](mailto:pswor@gmail.com)
+- **Email:** [pswor69@gmail.com](mailto:pswor@gmail.com)
 - **LinkedIn:** [swornim-poudel4a4721343](https://www.linkedin.com/in/swornim-poudel-4a4721343)
 - **GitHub:** [swornim619](https://github.com/swornim619)
 - **Phone:** +977 9849782874
