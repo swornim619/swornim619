@@ -29,8 +29,8 @@
 <p align="center"><i>Cyber Security Analyst (VAPT) · Vulnerability Research</i></p>
 
 <p align="center">
-  <a href="mailto:swornimpoudel711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/swornim-poudel4a4721343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pswor69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/swornim-poudel-4a4721343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/swornim619"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Lalitpur%2C%20Nepal-6e7681?style=flat-square"/>
 </p>
@@ -45,7 +45,7 @@ Cybersecurity professional with hands-on VAPT experience and a track record of i
 
 ### 🔎 Vulnerability Research & Responsible Disclosure
 
-Independently discovered, reported, and helped resolve security vulnerabilities across four separate real-world codebases through coordinated disclosure channels.
+Independently discovered, reported, and helped resolve security vulnerabilities across separate real-world codebases through coordinated disclosure channels.
 
 <!-- ADD-NEW-DISCLOSURE: copy a block below (heading + bullets) and fill in the new finding -->
 
@@ -53,7 +53,7 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
 - Discovered a URL-spoofing / phishing flaw where PDF.js displayed raw annotation URLs instead of resolved hostnames, enabling userinfo-based hostname spoofing (e.g. `trusted.example@attacker.example`).
 - Classified under `csectype-spoof` and escalated to the firefox-core-security group; fix landed in **Firefox 152** (`RESOLVED FIXED`).
 
-**Google Guava — BloomFilter Deserialization DoS** · Google OSS VRP
+**Google Guava — BloomFilter Deserialization DoS** · Google OSS VRP [PR # 15484] (https://github.com/google/oss-fuzz/pull/15484)
 - Identified an unbounded memory allocation bug in `BloomFilter.readFrom()`, where a 6-byte attacker-controlled input triggers an `OutOfMemoryError` and deterministic denial of service.
 - Built a working PoC and authored a complete OSS-Fuzz target (`BloomFilterReadFromFuzzer`); fix (PR #8449) merged by a Google engineer, referencing the submitted fuzz target.
 - Accepted into Google's OSS VRP program on a **Flagship (OT0-tier)** project.
@@ -77,7 +77,7 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
 
 ### 🎓 Education
 
-- BSc (Hons) Ethical Hacking and Cybersecurity — **Coventry University** *(Ongoing)*
+- BSc (Hons) Ethical Hacking and Cybersecurity — **Coventry University** 
 - Higher Secondary Education (+2), Science, Physics Major — Capital College and Research Center
 
 ---
@@ -119,13 +119,12 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=swornim619&theme=dark&hide_border=true&background=0d1117"/>
 </p>
 
-*(These update automatically — nothing to edit here.)*
 
 ---
 
 ### 📫 Contact
 
-- **Email:** [swornimpoudel711@gmail.com](mailto:swornimpoudel711@gmail.com)
-- **LinkedIn:** [swornim-poudel4a4721343](https://linkedin.com/in/swornim-poudel4a4721343)
+- **Email:** [swornimpoudel711@gmail.com](mailto:pswor@gmail.com)
+- **LinkedIn:** [swornim-poudel4a4721343](https://www.linkedin.com/in/swornim-poudel-4a4721343)
 - **GitHub:** [swornim619](https://github.com/swornim619)
 - **Phone:** +977 9849782874
