@@ -49,7 +49,7 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
 
 <!-- ADD-NEW-DISCLOSURE: copy a block below (heading + bullets) and fill in the new finding -->
 
-**Mozilla Firefox — PDF.js Viewer** · Bugzilla [#2025109](https://bugzilla.mozilla.org)
+**Mozilla Firefox — PDF.js Viewer** · Bugzilla [#2025109](https://bugzilla.mozilla.org/show_bug.cgi?id=2025109)
 - Discovered a URL-spoofing / phishing flaw where PDF.js displayed raw annotation URLs instead of resolved hostnames, enabling userinfo-based hostname spoofing (e.g. `trusted.example@attacker.example`).
 - Classified under `csectype-spoof` and escalated to the firefox-core-security group; fix landed in **Firefox 152** (`RESOLVED FIXED`).
 
