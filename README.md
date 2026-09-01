@@ -39,7 +39,7 @@
 
 ### About
 
-Cybersecurity professional with hands-on VAPT experience and a track record of independently discovering and responsibly disclosing real-world vulnerabilities to major organizations including Mozilla, Google, and open-source security projects. Actively growing in offensive security, fuzzing, and secure system design.
+Cybersecurity learner with hands-on VAPT experience and a track record of independently discovering and responsibly disclosing real-world vulnerabilities to major organizations including Mozilla, Google, and open-source security projects. Actively growing in offensive security, fuzzing, and secure system design.
 
 ---
 
