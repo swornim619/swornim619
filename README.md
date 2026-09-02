@@ -40,7 +40,8 @@ Cybersecurity learner with hands-on VAPT experience and a track record of indepe
 
 ### Things That Are True
 
-- I Love My Laptop.
+- Forgot I even reported that Keycloak bug until I googled my own name and the AI told me.
+- I can't remember names, but I can remember the colour of jacket you wore.
 ---
 
 ### 🔎 Vulnerability Research & Responsible Disclosure
@@ -66,6 +67,9 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
 - Found a comparator in Allstar's action-policy sort that violated basic ordering rules, letting lower-priority allow rules silently beat higher-priority deny rules with no error or warning.
 - Root cause: `pkg/policies/action/action.go` — CWE-670. CVSS 3.1: 4.3 (Medium). Fixed in v4.6.
 
+**Keycloak — Source Maps Exposed on Admin/Account UI** · [Issue #47545](https://github.com/keycloak/keycloak/issues/47545)
+- Reported that Keycloak shipped `.js.map` source maps for the Admin and Account UIs, risking exposure of internal frontend source when the UI is customized.
+- Reported privately to the Keycloak Security team first; handled publicly as a hardening issue. Fixed via a production-mode filter blocking `.js.map` requests (404), preserved in dev mode.
 ---
 
 ### 🛠️ Tools & Technologies
