@@ -15,8 +15,6 @@
 
 <p align="center">
   <img src="./assets/venom_transform.gif" width="380" alt="Venom transformation"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/moonknight_transform.gif" width="380" alt="Moon Knight transformation"/>
 </p>
 
 <h1 align="center">Swornim Poudel</h1>
