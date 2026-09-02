@@ -40,12 +40,7 @@ Cybersecurity learner with hands-on VAPT experience and a track record of indepe
 
 ### Things That Are True
 
-- I have found more bugs in production software than in my own apartment, and my apartment has ants.
-- My browser currently has 40+ tabs open. Eleven of them are the same Stack Overflow answer.
-- I've re-read the OWASP Top 10 more times than anything I was actually assigned in school.
-- I once spent six hours debugging a bug that turned out to be a typo. I do not recommend this.
-- My code comments are more honest than most LinkedIn posts.
-
+- I Love My Laptop.
 ---
 
 ### 🔎 Vulnerability Research & Responsible Disclosure
