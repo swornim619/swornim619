@@ -2,19 +2,11 @@
 ============================================================================
  HOW TO KEEP THIS UP TO DATE
 ============================================================================
- Adding a new disclosure, cert, or job? Two places to touch:
+ Adding a new disclosure or tool? Just edit the markdown sections below
+ (## Vulnerability Research, ## Tools, etc.) -- plain text, no tools needed.
 
- 1) The markdown sections below (## Vulnerability Research, ## Certifications,
-    etc.) -- just add a new bullet/block. No tools needed, plain text edit.
-
- 2) The banner image at the top (assets/profile-card.svg) is generated from
-    scripts/build_card.py. Open that file, add a matching line to the ITEMS
-    list near the top (each block has an "ADD-NEW-..." comment marking where),
-    then run:
-        pip install pillow --break-system-packages
-        python3 scripts/build_card.py
-    and commit the updated assets/profile-card.svg. Swapping scripts/photo.png
-    and re-running also regenerates the ASCII portrait from a new photo.
+ The two GIFs at the top live in assets/venom_transform.gif and
+ assets/moonknight_transform.gif -- swap those files to change the intro.
 
  The GitHub stats section near the bottom is a live badge (github-readme-stats)
  keyed to your username -- it updates itself automatically, nothing to edit.
@@ -22,7 +14,9 @@
 -->
 
 <p align="center">
-  <img src="./assets/profile-card.png" width="900" alt="Swornim Poudel — Cyber Security Analyst (VAPT)"/>
+  <img src="./assets/venom_transform.gif" width="380" alt="Venom transformation"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/moonknight_transform.gif" width="380" alt="Moon Knight transformation"/>
 </p>
 
 <h1 align="center">Swornim Poudel</h1>
@@ -46,19 +40,11 @@ Cybersecurity learner with hands-on VAPT experience and a track record of indepe
 
 ### Things That Are True
 
-- I Love My Laptop.
-
----
-
-### 🎭 Transformation Sequence
-
-<p align="center">
-  <img src="./assets/venom_transform.gif" width="380" alt="Venom transformation"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/moonknight_transform.gif" width="380" alt="Moon Knight transformation"/>
-</p>
-
-<p align="center"><sub>Don't ask why. It just felt right.</sub></p>
+- I have found more bugs in production software than in my own apartment, and my apartment has ants.
+- My browser currently has 40+ tabs open. Eleven of them are the same Stack Overflow answer.
+- I've re-read the OWASP Top 10 more times than anything I was actually assigned in school.
+- I once spent six hours debugging a bug that turned out to be a typo. I do not recommend this.
+- My code comments are more honest than most LinkedIn posts.
 
 ---
 
