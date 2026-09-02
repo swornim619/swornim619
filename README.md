@@ -32,6 +32,7 @@
   <a href="mailto:pswor69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/swornim-poudel-4a4721343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/swornim619"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://medium.com/@pswor69"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Lalitpur%2C%20Nepal-6e7681?style=flat-square"/>
 </p>
 
@@ -40,6 +41,24 @@
 ### About
 
 Cybersecurity learner with hands-on VAPT experience and a track record of independently discovering and responsibly disclosing real-world vulnerabilities to major organizations including Mozilla, Google, and open-source security projects. Actively growing in offensive security, fuzzing, and secure system design.
+
+---
+
+### Things That Are True
+
+- I Love My Laptop.
+
+---
+
+### 🎭 Transformation Sequence
+
+<p align="center">
+  <img src="./assets/venom_transform.gif" width="380" alt="Venom transformation"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/moonknight_transform.gif" width="380" alt="Moon Knight transformation"/>
+</p>
+
+<p align="center"><sub>Don't ask why. It just felt right.</sub></p>
 
 ---
 
@@ -53,7 +72,7 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
 - Discovered a URL-spoofing / phishing flaw where PDF.js displayed raw annotation URLs instead of resolved hostnames, enabling userinfo-based hostname spoofing (e.g. `trusted.example@attacker.example`).
 - Classified under `csectype-spoof` and escalated to the firefox-core-security group; fix landed in **Firefox 152** (`RESOLVED FIXED`).
 
-**Google Guava — BloomFilter Deserialization DoS** · Google OSS VRP [PR # 15484] (https://github.com/google/oss-fuzz/pull/15484)
+**Google Guava — BloomFilter Deserialization DoS** · Google OSS VRP [PR # 15484](https://github.com/google/oss-fuzz/pull/15484)
 - Identified an unbounded memory allocation bug in `BloomFilter.readFrom()`, where a 6-byte attacker-controlled input triggers an `OutOfMemoryError` and deterministic denial of service.
 - Built a working PoC and authored a complete OSS-Fuzz target (`BloomFilterReadFromFuzzer`); fix (PR #8449) merged by a Google engineer, referencing the submitted fuzz target.
 - Accepted into Google's OSS VRP program on a **Flagship (OT0-tier)** project.
@@ -62,38 +81,9 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
 - Reported a DoS (CWE-770) where Elgg failed to validate image dimensions on avatar uploads, enabling resource-exhaustion attacks.
 - Published via MITRE CNA-LR; indexed in NVD and [GHSA-7983-35fr-8qwm](https://github.com/advisories/GHSA-7983-35fr-8qwm) — CVSS 3.1: 4.3 (Medium).
 
----
-
-### 💼 Experience
-
-<!-- ADD-NEW-JOB: copy the block below -->
-
-**Cyber Security Intern (VAPT Support)** — Cube Technologies Pvt. Ltd., Nepal · *Jul 2025 – Dec 2025*
-- Assisted the security team in Vulnerability Assessment and Penetration Testing on web applications and systems.
-- Produced security assessment documentation, including findings and observations.
-- Gained hands-on exposure to the OWASP Top 10, security testing methodologies, and reporting standards.
-
----
-
-### 🎓 Education
-
-- BSc (Hons) Ethical Hacking and Cybersecurity — **Coventry University** 
-- Higher Secondary Education (+2), Science, Physics Major — Capital College and Research Center
-
----
-
-### 📜 Certifications
-
-<!-- ADD-NEW-CERT: add a bullet -->
-
-- Certified Red Team Analyst — Cyberwarfare Labs
-- Certified Red Team Infra Dev — Cyberwarfare Labs
-- Certified Red Team Operations Management — Red Team Leaders
-- Certified API Security Analyst — APIsec University
-- APIsec Certified Practitioner — APIsec University
-- API Security Certified Professional *(Ongoing)* — APIsec University
-- ISO/IEC 27001:2022 Lead Auditor — Mastermind Assurance
-- Certified Network Security Practitioner *(Ongoing)* — The SecOps Group
+**OSSF Allstar — Broken Sort Comparator Bypassing Deny Rules** · [GHSA-r4gf-cmfp-wq5c](https://github.com/ossf/allstar/security/advisories/GHSA-r4gf-cmfp-wq5c)
+- Found a comparator in Allstar's action-policy sort that violated basic ordering rules, letting lower-priority allow rules silently beat higher-priority deny rules with no error or warning.
+- Root cause: `pkg/policies/action/action.go` — CWE-670. CVSS 3.1: 4.3 (Medium). Fixed in v4.6.
 
 ---
 
@@ -119,12 +109,12 @@ Independently discovered, reported, and helped resolve security vulnerabilities 
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=swornim619&theme=dark&hide_border=true&background=0d1117"/>
 </p>
 
-
 ---
 
 ### 📫 Contact
 
-- **Email:** [pswor69@gmail.com](mailto:pswor@gmail.com)
-- **LinkedIn:** [swornim-poudel4a4721343](https://www.linkedin.com/in/swornim-poudel-4a4721343)
+- **Email:** [pswor69@gmail.com](mailto:pswor69@gmail.com)
+- **LinkedIn:** [swornim-poudel-4a4721343](https://www.linkedin.com/in/swornim-poudel-4a4721343)
 - **GitHub:** [swornim619](https://github.com/swornim619)
+- **Medium:** [@pswor69](https://medium.com/@pswor69)
 - **Phone:** +977 9849782874
