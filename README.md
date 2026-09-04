@@ -1,18 +1,3 @@
-<!--
-============================================================================
- HOW TO KEEP THIS UP TO DATE
-============================================================================
- Adding a new disclosure or tool? Just edit the markdown sections below
- (## Vulnerability Research, ## Tools, etc.) -- plain text, no tools needed.
-
- The two GIFs at the top live in assets/venom_transform.gif and
- assets/moonknight_transform.gif -- swap those files to change the intro.
-
- The GitHub stats section near the bottom is a live badge (github-readme-stats)
- keyed to your username -- it updates itself automatically, nothing to edit.
-============================================================================
--->
-
 <p align="center">
   <img src="./assets/venom_transform.gif" width="900" alt="Venom transformation"/>
 </p>
@@ -38,8 +23,10 @@ Cybersecurity learner with hands-on VAPT experience and a track record of indepe
 
 ### Things That Are True
 
-- Forgot I even reported that Keycloak bug until I googled my own name and the AI told me.
+- Forgot I even reported that Keycloak bug until I googled my own name and the AI mode told me.
 - I can't remember names, but I can remember the colour of jacket you wore.
+- I love writing shitty poems.
+- I might reply you on insta rather than other platforms (might even idk)
 ---
 
 ### 🔎 Vulnerability Research & Responsible Disclosure
